@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Generated files
+uploads/
+backend/uploads/
+logs/
+backend/logs/
+
+# VS Code
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ZIP files
+*.zip
